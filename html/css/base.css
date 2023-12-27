@@ -1,0 +1,15 @@
+.btn{
+    min-width: 142px;
+    height: 34;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.3rem;
+    padding: 6;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.6rem;
+}
